@@ -1,0 +1,206 @@
+h1{
+  margin-left: 25pt;
+  color: white;
+  text-decoration:underline;
+  text-align: center;
+  font-size: 35px;
+  font-family: "Impact";
+}
+h2.h2test{
+  font-family:"calibri";
+  color : YELLOW;
+  text-align:center;
+  text-decoration:underline;
+}
+a.type1 {
+  color: white;
+  font-size: 20px;
+  font-family: "Impact";
+}
+a.type1:hover {
+  color: red;
+  }
+a.type2{
+  margin-left: 10pt;
+  margin-right: 10pt;
+  color: white;
+  font-size: 20px;
+  text-decoration: none;
+  font-family: "Gill Sans", sans-serif;
+
+}
+.title{
+  color: YELLOW;
+  font-size: 22px;
+  font-family: "Gill Sans", sans-serif;
+  text-align: center;
+}
+.radiant{
+  color: green;
+  font-size: 22px;
+  font-family: "Gill Sans", sans-serif;
+  text-align: center;
+}
+
+.dire{
+  color: red;
+  font-size: 22px;
+  font-family: "Gill Sans", sans-serif;
+  text-align: center;
+}
+
+td.type3{
+  color: white;
+  font-size: 17px;
+  text-decoration: none;
+  font-family: "Gill Sans", sans-serif;
+  text-align: center;
+}
+td.link{
+  background-color: #5d6d7e;
+}
+td.button {
+  background-color: #566573 ;
+  border: solid;
+  color: #17202a;
+  padding: 15px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
+}
+td.button:hover {
+  background-color: RED;
+  color: #17202a;
+}
+a.button{
+  background-color: #1c2833 ;
+  color: white;
+  padding: 15px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-family: "Calibri";
+  font-size: 16px;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
+}
+a.button:hover{
+  background-color: #283747; /* Green */
+  color: #8d8b8a;
+}
+td.login{
+  margin-right: 50px
+}
+a.login{
+
+  background-color: #1c2833 ;
+  font-size: 20px;
+  padding: 15px 25px;
+  font-family: "Calibri";
+  color : white;
+  text-align: right;
+  text-decoration: none;
+  margin-left: 35px
+}
+a.login:hover{
+
+  font-size:20px;
+  font-family:"Calibri";
+  color : #8d8b8a;
+}
+a.login2{
+
+  background-color: #1c2833 ;
+  font-size: 20px;
+  padding: 15px 25px;
+  font-family: "Calibri";
+  color : white;
+  text-align: right;
+  text-decoration: none;
+  margin-right: 35px
+}
+a.login2:hover{
+
+  font-size:20px;
+  font-family:"Calibri";
+  color : #8d8b8a;
+}
+a.logo {
+  margin-left: 23px;
+}
+table.barre{
+  margin-left: 25px;
+  border-collapse:collapse;
+}
+table.login{
+  margin-top: 80px;
+  background-color: #2c3e50;
+}
+th.login{
+  color : red;
+  font-family:"Arial";
+}
+td.login{
+  color : white;
+  font-family:"Calibri";
+  text-decoration: underline;
+}
+body.login{
+  background-image: url(gallery/wallpaper.jpg);
+  background-attachment:fixed;
+  background-size : 100% 100%;
+}
+body.inscription{
+  background-color: BLACK;
+}
+table.inscription{
+   margin-top: 80px;
+   background-color: #2c3e50;
+   filter: alpha(opacity=40);
+   opacity: 0.95;
+   border:1px red solid;
+}
+table.twenty{
+  border-spacing: 5px 8px;
+  background-color: bgcolor = #34495e;
+  border: solid white;
+}
+table.analyse{
+  background-color: bgcolor = #FFFFFF;
+  border: medium solid #6495ed;
+  border-collapse: collapse;
+  border-spacing: 10px 10px;
+}
+td.img{
+  height: 500px;
+  width: 500px;
+  text-align: center;
+  border: thin solid #6495ed;
+}
+td.analyse{
+  font-size: 16px;
+  text-align: center;
+  border: thin solid #6495ed;
+  color : white;
+}
+th.analyse{
+  font-size: 36px;
+  border: thin solid #6495ed;
+  text-align: center;
+  color : white;
+}
+p.title{
+  font-size: 20px;
+  color : YELLOW;
+  text-align: center;
+  font-family: "Calibri";
+}
+td.Hello{
+  font-size: 16px;
+  font-style: italic;
+  color : WHITE;
+  font-family: "Calibri";
+}
